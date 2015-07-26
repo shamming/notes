@@ -35,3 +35,5 @@ git push origin master
 4. git commit -m "add comment here"
 5. git remote add origin URL
 6. git push -u origin master
+
+optional: git pull origin master - to ensure sync files from github to repo
