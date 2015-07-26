@@ -28,3 +28,10 @@ git log
 git push origin master
 
 ## CREATE NEW FILE AND PUSH TO GITHUB
+
+1. create new file
+2. git init
+3. git add .
+4. git commit -m "add comment here"
+5. git remote add origin URL
+6. git push -u origin master
