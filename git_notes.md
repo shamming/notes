@@ -1,3 +1,12 @@
+# GIT BASH COMMAND
+
+## CLONE FORKED REPOSITORY FROM GITHUB TO LOCAL
+
+1. git clone https://github.com/shamming/New fork directory
+2. goto the newly created folder that have the copy of forked repository
+3. git remote -v
+
+
 ## COMMIT (repo) & PUSH CHANGES
 
 * change working directory
