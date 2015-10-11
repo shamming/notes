@@ -27,10 +27,13 @@ git commit -m "put message here"
 
 git status
 
+* to remove a file from commit
+
+git rm "filename"
+
 * check log if commit is there
 
 git log
-
 
 * push from repo to github
 
