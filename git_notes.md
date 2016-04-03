@@ -2,9 +2,11 @@
 
 ## CLONE FORKED REPOSITORY FROM GITHUB TO LOCAL
 
-1. git clone https://github.com/shamming/New fork directory
-2. goto the newly created folder that have the copy of forked repository
-3. git remote -v
+1. Go to local, new directory that would like to clone from git hub
+2. git clone https://github.com/shamming/New_Fork_Directory
+git clone https://github.com/shamming/New fork directory (backup)
+3. goto the newly created folder that have the copy of forked repository
+4. git remote -v
 
 
 ## COMMIT (repo) & PUSH CHANGES
